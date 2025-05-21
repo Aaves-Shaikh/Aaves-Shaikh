@@ -1,4 +1,4 @@
-<img src="https://media1.tenor.com/m/Ug6cbVA1ZsMAAAAd/developer.gif" height="400" width="750" align="center">
+<img src="https://media1.tenor.com/m/Ug6cbVA1ZsMAAAAd/developer.gif" height="300" width="500" align="center">
 <h1 align="center">Hey There, I'm Aaves Shaikh 👋</h1>
 <h3 align="center">Full-Stack Developer | Cloud & Big Data Advocate | AI & Cloud Enthusiast</h3>
 
